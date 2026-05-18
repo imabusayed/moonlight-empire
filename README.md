@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/moonlight-empire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Moonlight Empire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moonlight-empire/) |
+| **Get License** | [Get License For Moonlight Empire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moonlight-empire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cc6726f07abe910c9b45e4ae08e82cd6c5e74ff9548a59f09f8232c0b0526cea` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
